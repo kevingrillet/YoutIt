@@ -1,0 +1,14 @@
+{
+  "name": "Yout it",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Permet d'aller directement sur Yout.com depuis YouTube",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_icon": "logo.png"
+  },
+  "permissions": ["activeTab", "*://*.youtube.com/*"]
+}
