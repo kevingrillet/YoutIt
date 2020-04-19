@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "../js/",
+        "sourceMap": true
+    },
+    "files": [
+        "iconClick.ts",
+        "iconFromUrl.ts"
+    ]
+}

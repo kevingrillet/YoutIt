@@ -7,6 +7,8 @@
   "background": {
     "scripts": [
       "js/browser-polyfill.min.js",
+      "js/iconClick.js",
+      "js/iconFromUrl.js",
       "js/background.js"
     ]
   },
