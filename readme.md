@@ -1,5 +1,5 @@
 # Yout It
-![NOT WORKING](https://img.shields.io/badge/Status-BREAK-red?logo=Github)
+![NOT WORKING](https://img.shields.io/badge/Status-BREAK-red?logo=Github) use [this](https://github.com/kevingrillet/Userscripts#Youtube) instead.
 
 Il s'agit d'une extension permettant d'aller de [YouTube](https://www.youtube.com/) à [Yout](https://yout.com/).
 
