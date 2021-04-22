@@ -1,4 +1,6 @@
 # Yout It
+![NOT WORKING](https://img.shields.io/badge/Status-BREAK-red?logo=Github)
+
 Il s'agit d'une extension permettant d'aller de [YouTube](https://www.youtube.com/) à [Yout](https://yout.com/).
 
 ## Installation
